@@ -40,3 +40,6 @@ III.Monthly sales summaries for each employee
 IV.Highest sales per employee using ranking
 
 These queries highlight the power of advanced SQL for meaningful business insights and report generation.
+
+*output*
+![Image](https://github.com/user-attachments/assets/5d34a78d-5610-46e2-a89d-9e790c7fb206)
