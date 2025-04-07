@@ -15,8 +15,8 @@ CREATE TABLE Employees (
 
 -- Sample Data
 INSERT INTO Employees VALUES
-(1, 'Alice', 'North'),
-(2, 'Bob', 'South'),
+(1, 'Rapunzel', 'North'),
+(2, 'Flyn', 'South'),
 (3, 'Charlie', 'East');
 
 INSERT INTO Sales VALUES
